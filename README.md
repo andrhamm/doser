@@ -8,12 +8,15 @@ An pH dosing controller program for Arduino. For use in hydroponic applications 
 * Simple display
 * 2 point calibration
 * Auto, manual, and read-only modes
+* Setpoint & hysteresis
 
 # TODO
 
 - [x] Stub out one-button menu
-- [ ] Startup screen w/ version
+- [x] Startup screen w/ version
+- [x] LED feedback
 - [ ] Integrate 7-segment display
 - [ ] Integrate doser relay
 - [ ] Integrate LeoPhi
 - [ ] Display pH readings
+- [ ] Auto dosing w/ PID and/or hysteresis
